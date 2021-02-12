@@ -9,29 +9,29 @@ tr {
 }
 
 .SRow {
-    background-color: red;
+    background-color: #FF9AA2;
 }
 
 .ARow {
-    background-color: orange;
+    background-color: #FFB7B2;
 }
 
 .BRow {
-    background-color: yellow;
+    background-color: #FFDAC1;
 }
 
 .CRow {
-    background-color: greenyellow;
+    background-color: #E2F0CB;
 }
 
 .DRow {
-    background-color: green;
+    background-color: #B5EAD7;
 }
 
 .ERow {
-    background-color: blue;
+    background-color: #C7CEEA;
 }
 
 .FRow {
-    background-color: blueviolet;
+    background-color: #E0BBE4;
 }
