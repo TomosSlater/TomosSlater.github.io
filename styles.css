@@ -3,7 +3,8 @@ body{
 }
 
 h2 {
-    color: white
+    color: white;
+    margin-left: 32px;
 }
 
 table {
@@ -47,5 +48,10 @@ tr {
 }
 
 .FullCell {
-    width: 100%;
+    width: 100% - 64px;
+}
+
+.HeadingCell {
+    width: 64px;
+    height: 64px;
 }
