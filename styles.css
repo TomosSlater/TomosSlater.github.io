@@ -1,3 +1,7 @@
+body{
+    background-color: darkSlateGray;
+}
+
 h2 {
     color: black
 }
@@ -11,6 +15,7 @@ tr {
     border: 3px solid black;
     background: grey;
     width: 100%;
+    text-align: center;
 }
 
 .SRow {
@@ -39,4 +44,8 @@ tr {
 
 .FRow {
     background-color: #E0BBE4;
+}
+
+.FullCell {
+    width: 100%;
 }
