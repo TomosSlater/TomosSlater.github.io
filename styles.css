@@ -60,6 +60,7 @@ tr {
 
 img {
     max-width: 128px;
+    margin-left: 16px;
 }
 
 .Flex {
