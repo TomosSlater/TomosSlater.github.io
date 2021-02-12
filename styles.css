@@ -67,3 +67,10 @@ img {
     display: flex;
     align-items: flex-start;
 }
+
+.Cotainer {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+}
