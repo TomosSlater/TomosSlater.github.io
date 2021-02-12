@@ -1,3 +1,31 @@
 h2 {
     color: red;
 }
+
+.SRow {
+    background-color: red;
+}
+
+.ARow {
+    background-color: orange;
+}
+
+.BRow {
+    background-color: yellow;
+}
+
+.CRow {
+    background-color: greenyellow;
+}
+
+.DRow {
+    background-color: green;
+}
+
+.ERow {
+    background-color: blue;
+}
+
+.FRow {
+    background-color: blueviolet;
+}
