@@ -49,6 +49,7 @@ tr {
 
 .FullCell {
     width: 100% - 64px;
+    
 }
 
 .HeadingCell {
@@ -58,4 +59,9 @@ tr {
 
 img {
     max-height: 64px;
+}
+
+.Flex {
+    display: flex;
+    align-items: flex-start;
 }
