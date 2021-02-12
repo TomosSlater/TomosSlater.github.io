@@ -57,5 +57,5 @@ tr {
 }
 
 img {
-    height: 64px;
+    max-height: 64px;
 }
