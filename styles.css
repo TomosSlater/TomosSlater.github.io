@@ -48,17 +48,18 @@ tr {
 }
 
 .FullCell {
-    width: 100% - 64px;
+    width: 100% - 128px;
     
 }
 
 .HeadingCell {
-    width: 64px;
-    height: 64px;
+    width: 128px;
+    height: 128px;
+    font-size: 32px;
 }
 
 img {
-    max-height: 64px;
+    max-height: 128px;
 }
 
 .Flex {
