@@ -1,76 +1,77 @@
-body{
-    background-color: darkSlateGray;
+body {
+  background-color: darkSlateGray;
 }
 
 h2 {
-    color: white;
-    margin: 32px;
+  color: white;
+  margin: 32px;
 }
 
 table {
-    width: 100%;
-    background: black;
+  width: 100%;
+  background: black;
 }
 
 tr {
-    border: 3px solid black;
-    background: grey;
-    width: 100%;
-    text-align: center;
+  border: 3px solid black;
+  background: grey;
+  width: 100%;
+  text-align: center;
 }
 
 .SRow {
-    background-color: #FF9AA2;
+  background-color: #FF9AA2;
 }
 
 .ARow {
-    background-color: #FFB7B2;
+  background-color: #FFB7B2;
 }
 
 .BRow {
-    background-color: #FFDAC1;
+  background-color: #FFDAC1;
 }
 
 .CRow {
-    background-color: #E2F0CB;
+  background-color: #E2F0CB;
 }
 
 .DRow {
-    background-color: #B5EAD7;
+  background-color: #B5EAD7;
 }
 
 .ERow {
-    background-color: #C7CEEA;
+  background-color: #C7CEEA;
 }
 
 .FRow {
-    background-color: #E0BBE4;
+  background-color: #E0BBE4;
 }
 
 .FullCell {
-    width: 100% - 128px;
-    
+  flex: 1;
 }
 
 .HeadingCell {
-    width: 128px;
-    height: 128px;
-    font-size: 32px;
+  width: 128px;
+  height: 128px;
+  font-size: 32px;
 }
 
 img {
-    max-width: 128px;
-    margin-left: 16px;
+  max-width: 128px;
+  margin-left: 16px;
 }
 
 .Flex {
-    display: flex;
-    align-items: flex-start;
+  display: flex;
+  align-items: flex-start;
 }
 
 .Cotainer {
-    display: flex;
-    align-items: center;
-    max-width: 50%;
-    margin-left: 25%;
+  display: flex;
+  align-items: center;
+  max-width: 50%;
+  margin-left: 25%;
 }
+
+/*# sourceMappingURL=styles.css.map */
