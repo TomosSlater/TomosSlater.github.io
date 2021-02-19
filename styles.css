@@ -71,6 +71,7 @@ img {
 
 .Container {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   max-width: 50%;
   margin-left: 25%;
