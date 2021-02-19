@@ -3,6 +3,7 @@ body {
 }
 
 h2 {
+  flex: 1;
   color: white;
   margin: 32px;
 }
