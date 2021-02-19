@@ -3,12 +3,14 @@ body {
 }
 
 h2 {
+  display: block;
   min-width: 100%;
   color: white;
   margin: 32px;
 }
 
 table {
+  display: block;
   min-width: 100%;
   background: black;
 }
@@ -70,8 +72,6 @@ img {
 }
 
 .Container {
-  display: flex;
-  align-items: center;
   max-width: 50%;
   margin-left: 25%;
 }
