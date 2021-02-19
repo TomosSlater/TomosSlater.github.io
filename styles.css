@@ -3,13 +3,13 @@ body {
 }
 
 h2 {
-  flex: 1;
+  min-width: 100%;
   color: white;
   margin: 32px;
 }
 
 table {
-  flex: 1;
+  min-width: 100%;
   background: black;
 }
 
@@ -71,7 +71,6 @@ img {
 
 .Container {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   max-width: 50%;
   margin-left: 25%;
