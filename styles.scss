@@ -12,20 +12,14 @@ body{
 }
 
 h2 {
-    display: block;
-    min-width: 100%;
+    flex: 1;
     color: white;
     margin: 32px;
 }
 
 table {
-    display: block;
-    min-width: 100%;
+    flex: 1;
     background: black;
-}
-
-tbody {
-    min-width: 100%;
 }
 
 tr {
@@ -88,4 +82,5 @@ img {
 .Container {
     max-width: 50%;
     margin-left: 25%;
+    display: flex;
 }
