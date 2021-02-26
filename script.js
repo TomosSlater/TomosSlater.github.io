@@ -4,6 +4,7 @@ var currentRow = rows.indexOf(img.parentElement.id);
 
 document.addEventListener('keydown', function(event) {
     console.log("KEYDOWN: " + event.key);
+    console.log("Current row: " + currentRow);
 
     if(event.key === 'ArrowUp' && currentRow > 0){
         currentRow--;
