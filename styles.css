@@ -73,6 +73,7 @@ img {
   max-width: 50%;
   margin-left: 25%;
   display: flex;
+  flex-wrap: wrap;
 }
 
 /*# sourceMappingURL=styles.css.map */
