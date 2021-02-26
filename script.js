@@ -5,6 +5,7 @@ var currentRow = rows.indexOf(img.parentElement.id);
 document.onkeydown = moveRow;
 
 function moveRow(e){
+    console.log("KEYDOWN!!!");
     e = e || window.event;
 
     if(e.KeyCode == '38' && currentRow > 0){
