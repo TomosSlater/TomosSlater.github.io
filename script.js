@@ -16,6 +16,7 @@ document.addEventListener('keydown', function(event) {
 });
 
 document.addEventListener('click', function(event) {
+    console.log("Click!")
     if(event.target.type === "img"){
         console.log("Image clicked!!!")
     }
