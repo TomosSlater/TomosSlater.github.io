@@ -20,5 +20,6 @@ document.addEventListener('click', function(event) {
     console.log("Clicked on a: " + event.target.tagName);
     if(event.target.tagName === "IMG"){
         img = event.target;
+        currentRow = rows.indexOf(img.parentElement.id);
     }
 });
