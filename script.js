@@ -10,8 +10,10 @@ function moveRow(e){
     if(e.KeyCode == '38' && currentRow > 0){
         currentRow--;
         document.getElementById(rows[currentRow]).appendChild(img);
+        console.log("KEYDOWN(38)")
     } else if (e.KeyCode == '37' && currentRow < rows.length){
         currentRow++;
         document.getElementById(rows[currentRow]).appendChild(img);
+        console.log("KEYDOWN(37)")
     }
 }
