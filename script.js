@@ -14,3 +14,9 @@ document.addEventListener('keydown', function(event) {
         document.getElementById(rows[currentRow]).appendChild(img);
     }
 });
+
+document.addEventListener('click', function(event) {
+    if(event.target.type === "img"){
+        console.log("Image clicked!!!")
+    }
+});
