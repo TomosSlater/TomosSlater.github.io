@@ -2,10 +2,16 @@ body {
   background-color: darkSlateGray;
 }
 
-h2 {
+h1 {
   flex-grow: 1;
   color: white;
   margin: 32px;
+  display: block;
+}
+
+p {
+  flex-grow: 1;
+  color: white;
   display: block;
 }
 
