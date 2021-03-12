@@ -5,13 +5,14 @@ body {
 h1 {
   flex-grow: 1;
   color: white;
-  margin: 32px;
+  margin: 32px 0;
   display: block;
 }
 
 p {
   flex-grow: 1;
   color: white;
+  margin-bottom: 16px;
   display: block;
 }
 
